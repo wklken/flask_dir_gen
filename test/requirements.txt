@@ -1,0 +1,9 @@
+Flask==0.10.1
+WTForms==2.0.1
+SQLAlchemy==0.9.6
+MySQL-python==1.2.5
+redis
+requests
+six
+raven==5.1.1
+blinker

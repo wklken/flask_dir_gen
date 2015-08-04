@@ -1,0 +1,9 @@
+global-include *.js
+global-include *.html
+global-include *.css
+global-include *.tpl
+global-include *.jpg *.png *.gif *.ico
+global-include *.txt
+global-include *.woff
+global-include *.ttf
+global-include *.svg
